@@ -1,2 +1,0 @@
-# My Documentation for linux 
-
